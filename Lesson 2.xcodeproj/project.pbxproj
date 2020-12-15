@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E00639782589083E00CDB198 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00639772589083E00CDB198 /* PostTableViewCell.swift */; };
 		E02550672588F56600AF3E30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02550662588F56600AF3E30 /* AppDelegate.swift */; };
 		E02550692588F56600AF3E30 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02550682588F56600AF3E30 /* SceneDelegate.swift */; };
 		E025506B2588F56600AF3E30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E025506A2588F56600AF3E30 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E00639772589083E00CDB198 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		E02550632588F56600AF3E30 /* Lesson 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E02550662588F56600AF3E30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E02550682588F56600AF3E30 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E02550662588F56600AF3E30 /* AppDelegate.swift */,
 				E02550682588F56600AF3E30 /* SceneDelegate.swift */,
 				E025506A2588F56600AF3E30 /* ViewController.swift */,
+				E00639772589083E00CDB198 /* PostTableViewCell.swift */,
 				E025506C2588F56600AF3E30 /* Main.storyboard */,
 				E025506F2588F56900AF3E30 /* Assets.xcassets */,
 				E02550712588F56900AF3E30 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				E025506B2588F56600AF3E30 /* ViewController.swift in Sources */,
 				E02550672588F56600AF3E30 /* AppDelegate.swift in Sources */,
 				E02550692588F56600AF3E30 /* SceneDelegate.swift in Sources */,
+				E00639782589083E00CDB198 /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
